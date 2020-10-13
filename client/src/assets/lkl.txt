@@ -1,0 +1,574 @@
+@media (max-width: 768px) {
+  #img1{
+  		position: relative;
+    	height: 85px;
+	width: 146px;
+		margin: 32px 0 0;
+	margin-top: 5px;
+	margin-left: 5px;
+  }
+}
+@media (min-width: 768px) {
+  #img1{
+  		position: relative;
+    	height: 85px;
+	width: 146px;
+		margin: 32px 0 0;
+	margin-top: 5px;
+	margin-left: 5px;
+  }
+}
+
+@media (min-width: 992px) {
+  #img1{
+  		position: relative;
+    	height: 120px;
+	width: 216px;
+		margin: 32px 0 0;
+	margin-top: 10px;
+	margin-left: 10px;
+  }
+}
+@media (min-width: 1200px) {
+  #img1{
+  		position: relative;
+    	height: 125px;
+	width: 216px;
+		margin: 3px 0 0;
+	margin-top: -10px;
+	margin-left: 50px;
+	float: left;
+  }
+}
+
+
+
+
+**************************************************************************
+		<div class="collapse navbar-collapse" id="111"> 
+        <ul  class="navbar-nav ml-auto" >
+		    <div class="container" id="navba">
+
+				  <li><a href="#" target="_self" title="information" class=""style="margin-right:30px;">Home</a></li>
+				  <li><a href="#" target="_self" title="News" class="" style="margin-right:60px;">News</a></li>
+				  <li><a href="#" target="_self" title="Home" class="" style="margin-right:30px;">information</a></li>		
+			  
+		    </div>
+	    </ul>
+	    </div>
+
+
+
+
+<nav class="navbar ">
+   
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#monmenu">
+				<i class="fa fa-list" aria-hidden="true"></i>
+			</button>
+
+
+			<a href="#" class="navbar-brand"><img src="Firmenlogo_BIM.jpg" id="img1"></a>
+		</div>
+
+        <div class="collapse navbar-collapse" id="monmenu">
+        	<ul class="nav navbar-nav navbar-right">
+        		  <li><a href="#" target="_self" title="information" class=""style="margin-right:30px;">Home</a></li>
+				  <li><a href="#" target="_self" title="News" class="" style="margin-right:60px;">News</a></li>
+				  <li><a href="#" target="_self" title="Home" class="" style="margin-right:30px;">information</a></li>	
+        	</ul>
+        	
+        </div>       
+ 
+
+	</div>
+</nav>
+
+
+**************************************************************************
+
+ <img src="table-629772_1920.jpg" width="600" height="600" class="img-responsive" id="">
+
+
+**************************************************************************
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 " style=" margin-right: -15px;">
+                      
+            
+            <img src="table-629772_1920.jpg" width="600" height="600" class="img-responsive">
+                        
+             
+            </div>
+
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12  no-padding ">
+          
+                
+                    
+             <img src="architecture-2256489_1920.jpg" width="600" height="600" class="img-responsive" style=" padding-right: none; padding-left: none;">
+                        
+               
+            </div>
+       
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+          
+             <div  style="height: 180px;width: 300px;background-color:rgba(113, 159, 255,1);  margin-right: -15px; margin-left: -15px;">
+                 </div>       
+               
+            </div>    
+                    
+             <img src="living-room-2155376_1920.jpg" width="600" height="600" class="img-responsive">
+                        
+               
+            </div>
+       
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 " class="overlay">
+**************************************************************************
+   <div class="col" class="col-sm-6 col-xs-12 ">
+	 <img src="table-629772_1920.jpg"  id="ig1" class="img-responsive">
+    </div>
+
+    <div class="col" class="col-sm-6 col-xs-12 ">
+	<img src="architecture-2256489_1920.jpg" id="ig2" class="img-responsive">
+    </div>
+
+    <div id="ig3">
+	
+    </div>
+
+    <div id="ig4">
+	
+    </div>
+     /*********************************************************/
+<a href="/en/unternehmen/corporate-movie/" class="teaser-tile light bgColor-white min-height max-height" data-horizontal-alignment="center" data-scale="cover" data-vertical-alignment="center">
+                                
+        
+    
+    
+        <picture>
+            <source media="(min-width: 1024px)" srcset="/fileadmin/images/caimmo/Content/Startseite/movie-projector-55122_640.png">
+            <source media="(max-device-width: 600px) AND (min-resolution: 192dpi)" srcset="/fileadmin/images/caimmo/Content/Startseite/movie-projector-55122_640.png">
+            <img src="/fileadmin/_processed_/4/d/csm_movie-projector-55122_640_6c71676e0b.png" width="1024" height="704" alt="" style="width: 599px; height: 412px; position: absolute; left: 50%; right: auto; margin-left: -299.5px; top: 50%; bottom: auto; margin-top: -206px;">
+        </picture>
+    
+
+
+        
+
+        
+
+        <div class="front white" style="width: 316px; height: 410px; display: table;">
+            <div class="content">
+                
+                        
+        <div class="content-inner d-flex flex-column">
+            
+                <h2 class="title order-1">Corporate Movie</h2>
+            
+
+            
+
+            
+
+            
+        </div>
+    
+                    
+            </div>
+
+            
+        </div>
+    
+
+        
+                
+
+        
+
+        <div class="back red" style="width: 316px; height: 410px;">
+            <div class="content">
+                
+                        
+        <div class="content-inner d-flex flex-column">
+            
+                <h2 class="title order-1">Corporate Movie</h2>
+            
+
+            
+
+            
+
+            
+                
+                    <strong class="order-4">Watch now</strong>
+                
+            
+        </div>
+    
+                    
+            </div>
+
+            
+                <div class="overlay bgColor-white"></div>
+            
+        </div>
+    
+            
+    
+                            </a>
+     /*********************************************************/
+
+@media (max-width: 576px) {
+#fin1{
+padding:   275px;
+  }
+}
+@media (min-width: 576px) {
+#fin1{
+padding:  375px;
+  }
+}     
+@media (min-width: 768px) {
+#fin1{
+padding:  375px;
+  }
+}
+@media (min-width: 1200px) {
+#fin1{
+padding: 375px;
+text-align:center; 
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+<footer style="background-color: rgba(201, 201, 201,0.5) ;padding-bottom: 100px; ">
+
+<p id="re"><span id="f1">E-Mail (1): Immobilien18@gmx.de</span>
+	<br>
+	<span id="f2">E-Mail (2): Meniaoui@hichi.de</span>
+
+<span id="f3">Tel: +(49) 1522 7977890</span>
+
+<span id="f4">germany,sttutgart</span>
+
+</p>
+</footer>
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+  #img1{
+  		position: relative;
+    	height: 85px;
+	width: 146px;
+margin-top: -42px;
+margin-left: -30px; 
+		float: right;
+  }
+}
+
+@media (min-width: 768px) {
+  #img1{
+  		position: relative;
+    	height: 125px;
+	width: 216px;
+	margin-top: -20px;
+	margin-left: -10px;
+	float: right;
+  }
+}
+
+
+@media (max-width: 576px) {
+#photo1{
+ height: 180px;
+ background-image: url('table-629772_1920.jpg');
+  
+  background-size: cover;
+    background-repeat: no-repeat;  
+}
+#contact{
+padding-top: 80px;
+}
+}
+@media (min-width: 576px) {
+#photo1{
+ height: 180px;
+ background-image: url('table-629772_1920.jpg');
+  
+  background-size: cover;
+    background-repeat: no-repeat;  
+}
+#contact{
+padding-top: 80px;
+}
+}     
+@media (min-width: 768px) {
+#photo1{
+ height: 280px;
+ background-image: url('table-629772_1920.jpg');
+  
+  background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+}
+@media (min-width: 1200px) {
+#photo1{
+ height: 380px;
+ background-image: url('table-629772_1920.jpg');
+
+  background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+}
+
+
+
+      <img class="d-block w-100" src="Sans titrecon.png"   >
+      <div class="carousel-caption text-center" id="contact">
+      	<h1 >Contact</h1> 
+
+
+
+
+
+
+
+
+
+******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+
+<div class="container-fluid padding" style="padding: 25px;">
+  <div class="row padding">
+    <div class="col-lg-11">
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+<p>
+
+  <h4 style="text-align: center; color: #777;">§1 Geltung gegenüber Unternehmern und Begriffsdefinitionen</h4>
+  <br>(1) Die nachfolgenden Allgemeinen Geschäftsbedingungen gelten für alle Lieferungen zwischen uns und einem
+  <br>Verbraucher in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.
+  <br>Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder
+  <br>ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können (§ 13 BGB).
+
+
+  <h4 style="text-align: center; color: #777;">§2 Zustandekommen eines Vertrages, Speicherung des Vertragstextes</h4>
+  
+  <br>(1) Die folgenden Regelungen über den Vertragsabschluss gelten für Bestellungen über unseren Internet-Seite.
+  <br>(2) Im Falle des Vertragsschlusses kommt der Vertrag mit
+  <br>G.F.: Hichem Meniaoui
+  <br>Überlinger Straße 42
+  <br>D-78224 Singen (Hohentwiel)
+  <br>Registernummer 720422
+  <br>Registergericht Amtsgericht Singen (Hohentwiel)
+  <br>zustande.
+  <br>(3) Die Präsentation der Waren in unserem Internetshop stellen kein rechtlich bindendes Vertragsangebot
+  <br>unsererseits dar, sondern sind nur eine unverbindliche Aufforderungen an den Verbraucher, Waren zu bestellen.
+  <br>Mit der Bestellung der gewünschten Ware gibt der Verbraucher ein für ihn verbindliches Angebot auf Abschluss
+  <br>eines Kaufvertrages ab.
+  <br>Die Annahme des Angebots erfolgt schriftlich oder in Textform oder durch Übersendung der bestellten Ware
+  <br>innerhalb von einer Woche. Nach fruchtlosem Ablauf der Frist gilt das Angebot als abgelehnt.
+  <br>(4) Bei Eingang einer Bestellung in unserem Internetshop gelten folgende Regelungen: Der Verbraucher gibt ein
+  <br>bindendes Vertragsangebot ab, indem er die in unserem Internetshop vorgesehene Bestellprozedur erfolgreich
+  <br>durchläuft.
+  <br>Die Bestellung erfolgt in folgenden Schritten:
+  <br>1) Auswahl der gewünschten Ware
+  <br>2) Bestätigen durch Anklicken der Buttons „Bestellen“
+  <br>3) Prüfung der Angaben im Warenkorb
+  <br>4) Betätigung des Buttons „zur Kasse“
+  <br>5) Anmeldung im Internetshop nach Registrierung und Eingabe der Anmelderangaben (E-Mail-Adresse und
+  <br>Passwort).
+  <br>6) Nochmalige Prüfung bzw. Berichtigung der jeweiligen eingegebenen Daten.
+  <br>7) Verbindliche Absendung der Bestellung durch Anklicken des Buttons „kostenpflichtig bestellen“ bzw. „kaufen“
+  <br>Der Verbraucher kann vor dem verbindlichen Absenden der Bestellung durch Betätigen der in dem von ihm
+  <br>verwendeten Internet-Browser enthaltenen „Zurück“-Taste nach Kontrolle seiner Angaben wieder zu der
+  <br>Internetseite gelangen, auf der die Angaben des Kunden erfasst werden und Eingabefehler berichtigen bzw.
+  <br>durch Schließen des Internetbrowsers den Bestellvorgang abbrechen. Wir bestätigen den Eingang der Bestellung
+  <br>unmittelbar durch eine automatisch generierte E-Mail (Eingangsbestätigung). Diese stellt noch keine Annahme
+  <br>des Angebotes dar. Die Annahme des Angebots erfolgt schriftlich, in Textform oder durch Übersendung der
+  <br>bestellten Ware innerhalb einer Woche.
+  <br>(5) Speicherung des Vertragstextes bei Bestellungen über unseren Internetshop : Wir senden Ihnen die
+  <br>Bestelldaten und unsere AGB per E-Mail zu. Die AGB können Sie jederzeit auch unter http://www.beispielshop-
+  <br>online.de/agb.html einsehen. Ihre Bestelldaten sind aus Sicherheitsgründen nicht mehr über das Internet
+  <br>zugänglich.
+  
+  <br>
+  <h4 style="text-align: center; color: #777;">§3 Preise, Versandkosten, Zahlung, Fälligkeit</h4>
+  
+  <br>(1) Die angegebenen Preise enthalten die gesetzliche Umsatzsteuer und sonstige Preisbestandteile. Hinzu
+  <br>kommen etwaige Versandkosten.
+  <br>(2) Der Verbraucher hat die Möglichkeit der Zahlung per Nachnahme .
+  
+  <br>(3) Soweit wir per Nachnahme liefern, tritt die Fälligkeit der Kaufpreisforderung mit Erhalt der Ware ein.
+  
+  <h4 style="text-align: center; color: #777;">§4 Lieferung</h4>
+ 
+  <br>(1) Sofern wir dies in der Produktbeschreibung nicht deutlich anders angegeben haben, sind alle von uns
+  <br>angebotenen Artikel sofort versandfertig. Die Lieferung erfolgt hier spätesten innerhalb von 5 Werktagen. Dabei
+  <br>beginnt die Frist für die Lieferung im Falle der Zahlung per Vorkasse am Tag nach Zahlungsauftrag an die mit der
+  <br>Überweisung beauftragte Bank und bei allen anderen Zahlungsarten am Tag nach Vertragsschluss zu laufen.
+  <br>Fällt das Fristende auf einen Samstag, Sonntag oder gesetzlichen Feiertag am Lieferort, so endet die Frist am
+  <br>nächsten Werktag.
+  <br>(2) Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache geht auch
+  <br>beim Versendungskauf erst mit der Übergabe der Sache an den Käufer auf diesen über.
+  <br><h4 style="text-align: center; color: #777;">§5 Eigentumsvorbehalt</h4>
+ 
+  <br>Wir behalten uns das Eigentum an der Ware bis zur vollständigen Bezahlung des Kaufpreises vor.
+  <br><!--****************************-->  
+  
+  <h4 style="text-align: center; color: #777;">§6 Widerrufsrecht des Kunden als Verbraucher</h4>
+  
+
+  <img class=img-responsive src="Firmenlogo_BIM.jpg" style="max-width: 100%; max-height: 100%; padding-left:20% ; padding-right:20% ;">
+
+
+
+  <br>Widerrufsrecht für Verbraucher
+  <br>Verbrauchern steht ein Widerrufsrecht nach folgender Maßgabe zu, wobei Verbraucher jede natürliche Person ist,
+  <br>die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer
+  <br>selbständigen beruflichen Tätigkeit zugerechnet werden können:
+  
+  <br>Widerrufsbelehrung
+  <br>Widerrufsrecht
+  <br>Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
+  <br>Die Widerrufsfrist beträgt vierzehn Tage, ab dem Tag des Vertragsabschlusses.
+  <br>Um Ihr Widerrufsrecht auszuüben, müssen Sie uns
+  <br>Bodensee Immobilien Management GmbH
+  <br>G.F.: Hichem Meniaoui
+  <br>Überlinger Straße 13
+  <br>D-78224 Singen (Hohentwiel)
+  <br>E-Mail: Immobilien18@gmx.de
+  <br>Telefone: 01522 7977890
+  <br>mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss,
+  <br>diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden,
+  <br>das jedoch nicht vorgeschrieben ist.
+  <br>Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor
+  <br>Ablauf der Widerrufsfrist absenden.
+  <br>Widerrufsfolgen
+  <br>Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben,
+  <br>einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine
+  <br>andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich
+  <br>und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf
+  <br>dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie
+  <br>bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes
+  <br>vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.
+  <br>Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginnen soll, so haben Sie uns einen
+  <br>angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung
+  <br>des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich
+  <br>zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
+  <br>Finanzierte Geschäfte
+  <br>Haben Sie diesen Vertrag durch ein Darlehen finanziert und widerrufen Sie den finanzierten Vertrag, sind Sie
+  
+  <br>auch an den Darlehensvertrag nicht mehr gebunden, wenn beide Verträge eine wirtschaftliche Einheit bilden.
+  <br>Dies ist insbesondere anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr
+  <br>Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei
+  <br>Wirksamwerden des Widerrufs oder der Rückgabe bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis
+  <br>zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem
+  <br>finanzierten Vertrag ein. Letzteres gilt nicht, wenn der vorliegende Vertrag den Erwerb von Wertpapieren,
+  <br>Devisen, Derivaten oder Edelmetallen zum Gegenstand hat.
+  <br>Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, widerrufen Sie beide
+  <br>Vertragserklärungen gesondert.
+  <br>Ende der Widerrufsbelehrung
+  <br> <!--************************************** -->  
+  <h4 style="text-align: center; color: #777;">§7 Widerrufsformular</h4>
+  
+  
+  <br>Muster-Widerrufsformular
+  
+  <br>(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
+  <br>An :
+  <br>Bodensee Immobilien Management GmbH
+  <br>G.F.: Hichem Meniaoui
+  <br>Überlinger Straße 13
+  <br>D-78224 Singen (Hohentwiel)
+  <br>E-Mail: Immobilien18@gmx.de
+  <br>Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren
+  <br>(*)/die Erbringung der folgenden Dienstleistung (*)
+  <br><!--_____________________________________________________-->  
+  <br>Bestellt am (*)/erhalten am (*)
+  <br><!--_____________________________________________________-->  
+  <br>Name des/der Verbraucher(s)
+  <br><!--_____________________________________________________-->  
+  <br>Anschrift des/der Verbraucher(s)
+  <br><!--_____________________________________________________-->  
+  <br>Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)
+  <br><!--_____________________________________________________-->  
+  <br>Datum
+  <br><!--_____________________________________________________-->  
+  <br>(*) Unzutreffendes streichen.
+
+  <h4 style="text-align: center; color: #777;">§8 Gewährleistung</h4>
+  
+  <br>Es gelten die gesetzlichen Gewährleistungsregelungen.
+
+  <h4 style="text-align: center; color: #777;">§9 Verhaltenskodex</h4>
+  
+  <br>Wir haben uns den Verhaltenskodizes der folgenden Einrichtungen unterworfen:
+  <br>Euro-Label Germany
+  <br>EHI-EuroHandelsinstitut GmbH
+  <br>Spichernstraße 55
+  <br>50672 Köln
+  <br>Den Euro-Label Verhaltenskodex können Sie durch Anklicken des auf unserer Webseite angebrachten Euro-
+  <br>Label-Siegels oder unter http://www.euro-label.com abrufen.
+
+  <h4 style="text-align: center; color: #777;">§10 Vertragssprache</h4>
+  
+  <br>Als Vertragssprache steht ausschließlich Deutsch zur Verfügung.
+  <br><!--****************************-->  
+
+  <h4 style="text-align: center; color: #777;">§11 Kundendienst</h4>
+  
+  <br>Unser Kundendienst für Fragen, Reklamationen und Beanstandungen steht Ihnen werktags von 9:00 Uhr
+  <br>bis 17:30 Uhr unter
+  <br>Telefon: 015227977890
+  <br>Telefax: 015227977890
+  <br>E-Mail: Immobilien18@gmx.de
+  <br>zur Verfügung.
+  <br><!--****************************-->  
+  
+  <br>Stand der AGB Dez.2019</p>
+
+  </div>
+</div>
+</div>
+
+
+
+
+<template>
+  <div class="about">
+    <h1>This is an about page</h1>
+  </div>
+</template>
+
+
+
+
