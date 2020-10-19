@@ -17,16 +17,15 @@ app.use(cors());
 
 
 async function loadPostsCollection() {
-    const client = await mongodb.MongoClient.connect('mongodb://localhost/bim',
-        {
-          useNewUrlParser: true
+    const client = await mongodb.MongoClient.connect('mongodb+srv://bim:4LSbdGGfw5NUxWc@cluster0.n5ecm.mongodb.net/cluster0?retryWrites=true&w=majority',
+        {         
+          useNewUrlParser: true,useUnifiedTopology: true
         }
     );
-    return client.db('bim').collection('posts');
-  }
+    return client.db('cluster0').collection('posts');
+  };
 
-  app.use(express.json({limit: '50mb'}));
-  app.use(express.urlencoded({limit: '50mb'}));
+ 
 
 
 
@@ -35,17 +34,15 @@ app.get('/DashBoard', async (req, res) => {
   const posts = await loadPostsCollection();
   res.send(await posts.find({}).toArray());
 });
-4 
+
 // Add Post
-app.post('/DashBoard', upload.single('image') , async (req, res) => {
-  console.log(req.file.filename);
-  const posts = await loadPostsCollection();
+app.post('/DashBoard', async (req, res) => {
+  const posts = await loadPostsCollection();  
   await posts.insertOne({
     type: req.body.sendtype,
     adresse: req.body.sendadresse,
     details: req.body.senddetails
   });
-  console.log(file);
   res.status(201).send();
 });
 
@@ -80,7 +77,7 @@ app.use('/OffreBim',async (req ,res)=> {
     service : "gmail",
     auth: {
       user: "diaminiaoui@gmail.com", // generated ethereal user
-      pass: "qaywsx123", // generated ethereal password
+      pass: "q", // generated ethereal password
     },
     tls:{
       rejectUnauthorized : false

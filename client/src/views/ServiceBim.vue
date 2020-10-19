@@ -55,7 +55,7 @@ span{
 
 <script>
 import EndBim from "@/components/EndBim.vue";
-import Service from "@/PostService.js";
+
 import axios from 'axios';
 export default {
   name: "ServiceBim",
@@ -81,16 +81,8 @@ export default {
       console.log(error);
     });
     
-  },
-
-  methods: {
-    async CreatePost(){
-      await Service.createposts(this.type, this.adresse, this.details);
-    },
-    async deletePost(id){
-      await Service.deleteposts(id);
-      
-    }    
   }
+
+
 }
 </script>

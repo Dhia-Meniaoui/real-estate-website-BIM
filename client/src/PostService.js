@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 const URL1 = 'http://localhost:3000/OffreBim';
-const URL2 = 'http://localhost:3000/DashBoard/';
+const URL2 = 'http://localhost:3000/DashBoard';
 
 class Service{
     static Postinsert(sendname , sendfirstname , sendemail ,sendphone , sendmessage){
@@ -20,12 +20,11 @@ class Service{
     
     
     //create posts
-    static createposts(sendtype , sendadresse , senddetails ,sendfile){
+    static createposts(sendtype , sendadresse , senddetails ){
         return axios.post(URL2, {
             sendtype ,
             sendadresse , 
-            senddetails ,
-            sendfile
+            senddetails 
         });
         
     }

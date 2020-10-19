@@ -23,17 +23,7 @@
             </div>
 
 
-            <div class="col-md-6" style="margin-left:15px;margin-top : 50px;">
-                <input  type="file" name="file" id="file" class="custom-file-input" value="" @change="onFileSelected">
-                <label for="file" class="custom-file-label" >choose file  </label>                
-            </div>
 
-
-            <div>
-              <img :src="imageurl">
-            </div>
-      
-        <div data-netlify-recaptcha="true"></div>
 
         <div class="col-md-12" style="margin-top: 18px;">
             <button type="submit" class="button1" value="senden" v-on:click="CreatePost">senden</button>
@@ -53,7 +43,6 @@
       <p style="text-align: center; font-size: 22px;padding-right: 22px;">Art: {{post.type}}</p>
       <p style="text-align: center; font-size: 22px;padding-right: 22px;">Adresse: {{post.adresse}}</p>
       <p style="text-align: center; font-size: 22px;padding-right: 22px;">Einzelheiten: {{post.details}}</p>
-      <img :src="post.image">
       <button class="button2" v-on:click="deletePost(post._id)"> delete </button>
     </div>
 
@@ -162,8 +151,6 @@ export default {
       type:'',
       adresse: '',
       details : '',
-      image : null ,
-      imageurl : '',
       error : ''
     }
   },
@@ -179,27 +166,17 @@ export default {
     
   },
 
+
   methods: {
-    onFileSelected (event){
-      this.image = event.target.files[0];
-      console.log(this.image);
-      const filereader = new FileReader();
-      filereader.addEventListener('load', ()=> {
-        this.imageurl = filereader.result
-      })
-      filereader.readAsDataURL(this.image)
-    },
     async CreatePost(){
-      const fd = new FormData();
-      fd.append('image', this.image ,this.image.name);
-      await Service.createposts(this.type, this.adresse, this.details,fd );
+      await Service.createposts(this.type, this.adresse, this.details);
     },
     async deletePost(id){
       await Service.deleteposts(id);
     }
-
-
   }
+
+
 }
 
 
