@@ -71,9 +71,12 @@
 
     </div>  
 
+<router-link v-scroll-to="'#carouselExampleControls'" tag="a" to="/DashBoard">
+<button type="submit" class="button1" value="senden" v-on:click="CreatePost">senden
 
 
-
+</button>
+</router-link>
 
 
 
