@@ -63,7 +63,7 @@
       <router-link v-scroll-to="'#carouselExampleControls'" tag="a" to="/OffreBim">
       <a style="text-decoration : none;" >
         <div id="offre1" class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ig4">
-          <h1 id="offre">Angebot anfordern</h1>
+          <h1 id="offre">Angebot </h1>
           <hr style="border-top: 4px solid #719fff;width: 50%;">
         </div>
       </a> 
