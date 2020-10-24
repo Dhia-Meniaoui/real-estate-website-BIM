@@ -73,7 +73,7 @@ export default {
   },
  
   mounted() {
- axios.get('http://localhost:3000/DashBoard')
+ axios.get('/DashBoard')
     .then((response) => {
       this.posts = response.data;
     })

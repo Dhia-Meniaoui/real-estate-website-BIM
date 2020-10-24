@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 
-const URL1 = 'http://localhost:3000/OffreBim';
-const URL2 = 'http://localhost:3000/DashBoard';
+const URL1 = '/OffreBim';
+const URL2 = '/DashBoard';
 
 class Service{
     static Postinsert(sendname , sendfirstname , sendemail ,sendphone , sendmessage){
