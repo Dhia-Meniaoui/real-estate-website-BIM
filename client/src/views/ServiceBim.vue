@@ -73,7 +73,7 @@ export default {
   },
  
   mounted() {
- axios.get('/DashBoard')
+ axios.get('https://bimporject.herokuapp.com/DashBoard')
     .then((response) => {
       this.posts = response.data;
     })

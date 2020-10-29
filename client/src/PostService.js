@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 
-const URL1 = '/OffreBim';
-const URL2 = '/DashBoard';
+const URL1 = 'https://bimporject.herokuapp.com/OffreBim';
+const URL2 = 'https://bimporject.herokuapp.com/DashBoard';
 
 class Service{
     static Postinsert(sendname , sendfirstname , sendemail ,sendphone , sendmessage){
@@ -26,7 +26,6 @@ class Service{
             sendadresse , 
             senddetails 
         });
-        
     }
 
     // //get posts
