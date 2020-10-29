@@ -26,7 +26,7 @@
       
       <div class="col-md-6 mb-md-0 mb-3">
 
-        <a href="#"><img src='../assets/facebook.png' style='width:35px; hieght:35px;margin:15px;'></a>
+        <a href="https://www.facebook.com/BIM-107961204440735"><img src='../assets/facebook.png' style='width:35px; hieght:35px;margin:15px;'></a>
         <a href="#"><img src='../assets/lin.png' style='width:35px; hieght:35px;margin:15px;'></a>
 <br><br>
       </div>

@@ -19,9 +19,10 @@
 
 
 
-    <div id="news" >
+    <div id="news" align="center">
       <h1 style="text-align: center; color: #777;">Nachrichten</h1>
       <hr style="border-top: 2px solid #719fff;width: 55%;">
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBIM-107961204440735&tabs=timeline&width=400&height=500&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=true&appId=373806452648808" width="700" height="500" id='fb'  style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
     </div>
  
 
@@ -60,10 +61,10 @@
       </a>
       </router-link>
 
-      <router-link v-scroll-to="'#carouselExampleControls'" tag="a" to="/OffreBim">
+      <router-link v-scroll-to="'#carouselExampleControls'" tag="a" to="/OffreBim" v-on:dbclick="dash">
       <a style="text-decoration : none;" >
         <div id="offre1" class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ig4">
-          <h1 id="offre">Angebot </h1>
+          <h1 id="offre">Angebot anfordern</h1>
           <hr style="border-top: 4px solid #719fff;width: 50%;">
         </div>
       </a> 
@@ -71,12 +72,9 @@
 
     </div>  
 
-<router-link v-scroll-to="'#carouselExampleControls'" tag="a" to="/DashBoard">
-<button type="submit" class="button1" value="senden" v-on:click="CreatePost">senden
 
 
-</button>
-</router-link>
+
 
 
 
@@ -101,7 +99,6 @@
 
 
     <br><br><br><br>
-
 
 
   </div>
@@ -144,7 +141,7 @@ pre {
   height: 400px;
 }
 #news{
-	height: 300px;
+	
 	position: relative;
 	margin-top: 20px;
 }
@@ -299,7 +296,11 @@ transform: scale(1.1);
 
 
 
-
+  #fb{
+ width:400px;
+height:500px;
+position:relative;
+  }
 
 
 
@@ -394,8 +395,13 @@ export default {
   name: "HelloWorld",
   props: {
     msg: String
+  },
+  events: {
+   'dash': function (){
+        this.$router.push("/DashBoard");
+    }
   }
-};
+}
 
 
 </script>
