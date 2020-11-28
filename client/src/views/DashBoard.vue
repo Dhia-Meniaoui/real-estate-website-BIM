@@ -153,7 +153,7 @@ export default {
       details : '',
       error : ''
     }
-  },
+  },   
  
   mounted() {
  axios.get('https://bimporject.herokuapp.com//DashBoard')
